@@ -7,7 +7,7 @@ API Server
 
 ### Links and Resources
 
-- [submission PR](http://xyz.com)
+- [submission PR](https://github.com/Mohammed-401-advanced-javascript/Lab-09/pull/1)
 - [ci/cd](https://github.com/Mohammed-401-advanced-javascript/Lab-09/actions) (GitHub Actions)
 - [back-end server url](http://xyz.com) (when applicable)
 - [front-end application](http://xyz.com) (when applicable)
